@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd year Cambridge Engineer, with interests in data science, machine learning and embedded programming.<br>Developed projects specialising in algorithmic trading and analysis, and high frequency data pipelines<br>
+2nd year Cambridge Engineer, with interests in data science, machine learning and embedded programming.<br>Developed projects specialising in algorithmic trading and analysis, and high frequency data pipelines.<br>
 
 
 ## 🌐 Socials:
