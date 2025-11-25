@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd year Cambridge Engineer, with interests in data science, machine learning and embedded programming.<br>
+2nd year Cambridge Engineer, with interests in data science, machine learning and embedded programming.<br>Developed projects specialising in algorithmic trading and analysis, as well as embedded machine learning models.<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhys-cunningham25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rdc50@cam.ac.uk) 
 
